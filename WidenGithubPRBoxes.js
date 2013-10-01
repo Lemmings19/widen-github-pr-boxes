@@ -4,7 +4,7 @@
 // @version      0.1
 // @author       Lemmings19
 // @description  I'm tired of code reviewing in cramped little boxes.
-// @match        https://github.com/*/pull/*
+// @include      https://github.com/*/pull/*
 // ==/UserScript==
 
 var container = document.getElementsByClassName("container");
