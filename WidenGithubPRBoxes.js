@@ -15,4 +15,4 @@ var repositoryWithSidebar = document.getElementsByClassName("repository-with-sid
 repositoryWithSidebar[0].setAttribute("style", "width:100%");
 
 var contextLoaderContainer = document.getElementsByClassName("context-loader-container");
-contextLoaderContainer[0].setAttribute("style", "width:95%");
+contextLoaderContainer[0].setAttribute("style", "width:90%");
