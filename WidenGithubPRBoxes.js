@@ -1,4 +1,7 @@
 // ==UserScript==
+//
+//				 This is an example! Hello world! :)
+//
 // @id           org.userscripts.users.lemmings19.widengithubprboxes
 // @name         Widen Github PR Boxes
 // @version      0.1
