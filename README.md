@@ -9,4 +9,4 @@ Install using GreaseMonkey or TamperMonkey.
 ![Pull request code review section.][example2]
 
 [example1]: example1.png
-[example2]: example1.png
+[example2]: example2.png
