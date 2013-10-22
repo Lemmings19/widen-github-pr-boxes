@@ -5,6 +5,7 @@
 // @author       Lemmings19
 // @description  I'm tired of code reviewing in cramped little boxes.
 // @include      https://github.com/*/pull/*
+// @include      https://github.com/*/compare/*
 // ==/UserScript==
 
 var container = document.getElementsByClassName("container");
